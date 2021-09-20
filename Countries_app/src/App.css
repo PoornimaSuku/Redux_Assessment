@@ -1,0 +1,14 @@
+h1{
+  margin-left: 25px;
+  color:rgb(97, 0, 153);
+}
+
+.dropdown label{
+  margin-left: 25px;
+  font-weight: bold;
+}
+.dropdown select{
+  width:250px;
+  height:50px;
+  margin-left:15px;
+}
